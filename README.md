@@ -1,5 +1,5 @@
 # Rectangular_Waveguide_Simulation
-# Design and Simulation of an X-Band Rectangular Waveguide
+# Design and Simulation of a Rectangular Waveguide
 
 This repository contains the comprehensive design framework, wave propagation theory, and three-dimensional electromagnetic simulation data for a hollow metallic Rectangular Waveguide operating within the high-frequency X-band spectrum. All design, boundary setup, and component optimization tasks were conducted utilizing the Transient Solver within CST Studio Suite (Microwave Studio).
 
